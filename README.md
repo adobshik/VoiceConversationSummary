@@ -1,10 +1,10 @@
-Voice Conversation Summary
+**Voice Conversation Summary**
 
-Overview
+**Overview**
 
 This repository contains scripts to summarize voice conversations stored in an audio format (mp3, wav, m4a, etc.) into SOAP (Subjective, Objective, Assessment, Plan) notes format using opensource speaker diarization model, OpenAI's Whisper and GPT-4 model via API.
 
-Features
+**Features**
 
 Input: recording of dialogue stored in audio format (mp3, wav, m4a, etc.)
 
@@ -14,7 +14,7 @@ Output: summary in SOAP format:
 *Assessment*: Summary of findings
 *Plan*: Completed treatment, home care instruction, and next steps
 
-Getting Started
+**Getting Started**
 1. Clone repository:
 
 git clone https://github.com/adobshik/VoiceConversationSummary.git
