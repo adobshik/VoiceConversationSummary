@@ -24,3 +24,7 @@ cd VoiceConversationSummary
 ```python
 pip install -r requirements.txt
 ```
+
+3. Set up OpenAI API Key:
+
+Obtain your OpenAI API key from OpenAI. Set it directly in the config.py script.
