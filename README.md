@@ -18,9 +18,8 @@ Output: summary in SOAP format (*Subjective*: Reason for appointment, Chief comp
 
 ```python
 git clone https://github.com/adobshik/VoiceConversationSummary.git
-```
 cd VoiceConversationSummary
-
+```
 2. Install dependencies:
 ```python
 pip install -r requirements.txt
