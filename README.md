@@ -8,11 +8,10 @@ This repository contains scripts to summarize voice conversations stored in an a
 
 Input: recording of dialogue stored in audio format (mp3, wav, m4a, etc.)
 
-Output: summary in SOAP format:
-*Subjective*: Reason for appointment, Chief complaint
+Output: summary in SOAP format (*Subjective*: Reason for appointment, Chief complaint
 *Objective*: Findings from radiographs or any other tests, Medical History Updates
 *Assessment*: Summary of findings
-*Plan*: Completed treatment, home care instruction, and next steps
+*Plan*: Completed treatment, home care instruction, and next steps)
 
 ## Getting Started
 1. Clone repository:
