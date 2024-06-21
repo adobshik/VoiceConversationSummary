@@ -1,0 +1,10 @@
+librosa==0.10.2.post1
+openai==0.28.0
+pandas==2.2.2
+pyannote.audio==3.3.0
+pyannote.core==5.0.0
+pyannote.database==5.1.0
+pyannote.metrics==3.2.1
+pyannote.pipeline==3.0.1
+torch==2.3.1
+transformers==4.42.0.dev0
